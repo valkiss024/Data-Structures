@@ -178,7 +178,7 @@ class LinkedList:
 
 # Creating two LinkedList objects for testing
 
-values_1 = ["Python", "Classes", "Data structures", "Algorithms", "Functions"]
+values_1 = ["Python", "Classes", "Data_structures", "Algorithms", "Functions"]
 values_2 = [1, 2, 3, 4, 5]
 my_linked_list_1 = LinkedList()
 my_linked_list_2 = LinkedList()
